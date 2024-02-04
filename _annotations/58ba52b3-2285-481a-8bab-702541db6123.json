@@ -1,0 +1,38 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/106382.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "eye",
+            "purpose": "tagging",
+            "creator": {
+                "id": "guergis",
+                "name": "guergis"
+            },
+            "created": "2024-02-04T06:51:43.276Z",
+            "modified": "2024-02-04T06:51:44.326Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+                "type": "Manifest"
+            },
+            "id": "https://media.nga.gov/public/manifests/canvas/106382.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=6175.2802734375,7558.998046875,2519.6669921875,1875.1015625"
+        }
+    },
+    "id": "58ba52b3-2285-481a-8bab-702541db6123.json",
+    "motivation": "commenting"
+}
