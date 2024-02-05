@@ -1,9 +1,3 @@
-images:
-- added: '2024-02-05 14:52:44.954714'
-  iiif: true
-  thumbnail: https://www.e-rara.ch/i3f/v21/14544027/full/304/0/default.jpg
-  title: "Erinnerung an Z\xFCrich"
-  url: https://www.e-rara.ch/i3f/v21/14544026/manifest
-  user: guergis
+images: []
 settings: {}
 version: '2.1'
