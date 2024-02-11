@@ -1,0 +1,34 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Frau",
+            "purpose": "commenting",
+            "creator": {
+                "id": "guergis",
+                "name": "guergis"
+            },
+            "created": "2024-02-11T14:31:14.214Z",
+            "modified": "2024-02-11T14:31:15.270Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=67.02703094482422,12.162160873413086,57.56755828857422,89.99998664855957"
+        }
+    },
+    "id": "59300437-6a13-4cbf-bfc7-cf10dd49d20e.json",
+    "motivation": "commenting"
+}
