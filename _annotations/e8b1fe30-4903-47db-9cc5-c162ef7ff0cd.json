@@ -1,0 +1,34 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Truthahn",
+            "purpose": "commenting",
+            "creator": {
+                "id": "guergis",
+                "name": "guergis"
+            },
+            "created": "2024-02-11T14:31:47.342Z",
+            "modified": "2024-02-11T14:31:52.573Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=333.24322509765625,90.27027130126953,60.000030517578125,48.108116149902344"
+        }
+    },
+    "id": "e8b1fe30-4903-47db-9cc5-c162ef7ff0cd.json",
+    "motivation": "commenting"
+}
